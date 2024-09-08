@@ -5,3 +5,6 @@
 - Блок который двигается
 - Замедление времени на ПКМ
 - 3 уровня
+
+# Билд:
+https://github.com/BIERTONSTAFF/sineus-2024/releases/tag/v1
